@@ -1,0 +1,6 @@
+.header__lang-el {
+  margin-right: 18px;
+}
+.header__lang-el:last-child {
+  margin-right: 0;
+}
