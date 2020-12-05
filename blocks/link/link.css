@@ -4,10 +4,12 @@
 }
 
 .link:first-child {
-  border-bottom: solid 2.2px white;
+  /* border-bottom: solid 2.2px white; */
+  text-decoration: underline;
 }
 
 .link:hover {
   opacity: 0.57;
   text-decoration: underline;
+  border: none;
 }
