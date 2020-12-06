@@ -1,4 +1,4 @@
-.cover__content {
+.cover__text {
   margin: 0 auto;
   max-width: 560px;
   display: flex;
@@ -13,7 +13,7 @@
   z-index: 1;
 }
 @media (max-width: 425px) {
-  .cover__content {
+  .cover__text {
     margin: 0 auto;
     width: 288px;
   }

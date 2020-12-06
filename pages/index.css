@@ -13,6 +13,8 @@
 @import "../blocks/header/__lang-el/header__lang-el.css";
 @import "../blocks/header/__lang-link/header__lang-link.css";
 
+/* main */
+
 /* lead */
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__title/lead__title.css";
@@ -47,7 +49,7 @@
 /* cover */
 @import "../blocks/cover/cover.css";
 @import "../blocks/cover/__overlay/cover__overlay.css";
-@import "../blocks/cover/__content/cover__content.css";
+@import "../blocks/cover/__text/cover__text.css";
 @import "../blocks/cover/__title/cover__title.css";
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
 

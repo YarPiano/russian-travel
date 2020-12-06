@@ -1,12 +1,11 @@
 /* * {
-    outline: 2px solid white;
+    outline: 1px solid yellow;
     } */
 .root {
     max-width: 1280px;
     margin: 0 auto;
     background-color: #2A2C2F;
     font-family: 'Inter', sans-serif;
-    color: #FFFFFF;
     text-rendering: optimizeLegibility;    
 }    
     

@@ -6,5 +6,6 @@
   transition: ease-in-out .4s;
 }
 .place__link:hover {
-  opacity: .5;
+  opacity: .8;
+  cursor: url("../../../vendor/Cursor.cur"), auto;
 }
