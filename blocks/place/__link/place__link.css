@@ -3,9 +3,9 @@
   line-height: 22px;
   font-weight: 400;
   color: #ffffff;
-  transition: ease-in-out .4s;
+  transition: ease-in-out 0.4s;
 }
 .place__link:hover {
-  opacity: .8;
+  opacity: 0.8;
   cursor: url("../../../vendor/Cursor.cur"), auto;
 }

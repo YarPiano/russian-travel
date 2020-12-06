@@ -1,6 +1,6 @@
 .link {
   /* color: #2f80ed; */
-  transition: all .2s ease-in;
+  transition: all 0.2s ease-in;
 }
 
 .link:first-child {
