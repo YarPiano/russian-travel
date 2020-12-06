@@ -8,4 +8,4 @@
 
 Адаптивная вёрстка по макету в Figma.
 [Ссылка на проект](https://yarpiano.github.io/russian-travel/index.html "Путешествие по России")
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/YarPiano/russian-travel/blob/master/images/site.gif)
