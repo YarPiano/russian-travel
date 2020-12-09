@@ -7,7 +7,7 @@
   color: #ffffff;
   text-align: center;
 }
-@media (min-width: 426px) and (max-width: 768px) {
+@media (max-width: 768px) {
   .lead__subtitle {
     margin: 0 auto 56px;
     max-width: 70%;

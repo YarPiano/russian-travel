@@ -7,7 +7,7 @@
   color: #ffffff;
   text-align: center;
 }
-@media (min-width: 426px) and (max-width: 768px) {
+@media (max-width: 768px) {
   .lead__title {
     max-width: 100%;
     font-size: 11.2vw;
