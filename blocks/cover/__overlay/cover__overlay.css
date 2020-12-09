@@ -5,11 +5,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #2a2c2f4d;
+  background-color: rgba(42, 44, 47, 0.3);
   transition: 0.3s ease-in-out;
 }
 .cover__overlay:hover {
-  background-color: #2a2c2fcc;
+  background-color: rgba(42, 44, 47, 0.8);
 }
 @media (max-width: 1280px) {
   .cover__overlay {
