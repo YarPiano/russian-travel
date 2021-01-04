@@ -1,9 +1,11 @@
 @import "../vendor/normalize.css";
 @import "../vendor/fonts/Inter_Web/inter.css";
 @import "../blocks/root/root.css";
+@import "../blocks/indent/indent.css";
 
 /* link */
 @import "../blocks/link/link.css";
+
 
 /* header */
 @import "../blocks/header/header.css";
