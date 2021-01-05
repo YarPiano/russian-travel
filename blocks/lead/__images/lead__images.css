@@ -1,15 +1,14 @@
-.lead__figure {
+.lead__images {
   margin: 0;
 }
-@media (min-width: 426px) and (max-width: 768px) {
-  .lead__figure {
+@media (max-width: 768px) {
+  .lead__images {
     margin: 0 auto;
     max-width: 100%;
   }
 }
 @media (max-width: 425px) {
-  .lead__figure {
-    margin: 0 auto;
+  .lead__images {
     max-width: 425px;
   }
 }
